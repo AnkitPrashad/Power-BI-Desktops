@@ -1,2 +1,2 @@
 # Power-BI-Desktops
-This Include Desktops That with Microsoft Power Bi
+This Include Desktops That made  with Microsoft Power Bi
